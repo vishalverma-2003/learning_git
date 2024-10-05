@@ -1,0 +1,1 @@
+const head = ducument.querySelector('h1')
